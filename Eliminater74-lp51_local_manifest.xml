@@ -47,10 +47,10 @@
 <!-- Optional CM Full settings for LGE G3 (D851) -->
   
  <project name="proprietary_vendor_lge" path="vendor/lge" remote="tm" revision="cm-13." /> 
-  <project name="android_device_lge_d851" path="device/lge/d851" remote="Eliminater74" revision="cm-12.1" />
-  <project name="android_device_lge_g3-common" path="device/lge/g3-common" remote="cmm" revision="cm-12.1" />
-  <project name="android_device_qcom_common" path="device/qcom/common" remote="cmm" revision="cm-12.1" />
-  <project name="NebulaKernel" path="kernel/lge/g3" remote="Eliminater74" revision="nebula-test1" /> 
+  <project name="android_device_lge_d851" path="device/lge/d851" remote="cmm" revision="cm-13.0" />
+  <project name="android_device_lge_g3-common" path="device/lge/g3-common" remote="cmm" revision="cm-13.0" />
+  <project name="android_device_qcom_common" path="device/qcom/common" remote="cmm" revision="cm-13.0" />
+  <project name="NebulaKernel" path="kernel/lge/g3" remote="cmm" revision="cm-13.0" /> 
 
 <!-- ##################################################################################################
        # Project Files To Make Rom More Personal 05/28/2015                                                                                                                                          # 
