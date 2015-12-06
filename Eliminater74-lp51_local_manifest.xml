@@ -46,7 +46,7 @@
 
 <!-- Optional CM Full settings for LGE G3 (D851) -->
   
- <project name="proprietary_vendor_lge" path="vendor/lge" remote="tm" revision="cm-13." /> 
+ <project name="proprietary_vendor_lge" path="vendor/lge" remote="tm" revision="cm-13.0" /> 
   <project name="android_device_lge_d851" path="device/lge/d851" remote="Eliminater74" revision="cm-12.1" />
   <project name="android_device_lge_g3-common" path="device/lge/g3-common" remote="cmm" revision="cm-12.1" />
   <project name="android_device_qcom_common" path="device/qcom/common" remote="cmm" revision="cm-12.1" />
