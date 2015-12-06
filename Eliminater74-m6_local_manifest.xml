@@ -50,7 +50,7 @@
   <project name="android_device_lge_d851" path="device/lge/d851" remote="cmm" revision="cm-13.0" />
   <project name="android_device_lge_g3-common" path="device/lge/g3-common" remote="cmm" revision="cm-13.0" />
   <project name="android_device_qcom_common" path="device/qcom/common" remote="cmm" revision="cm-13.0" />
-  <project name="NebulaKernel" path="kernel/lge/g3" remote="cmm" revision="cm-13.0" /> 
+  <project name="android_kernel_lge_g3" path="kernel/lge/g3" remote="cmm" revision="cm-13.0" /> 
 
 <!-- ##################################################################################################
        # Project Files To Make Rom More Personal 05/28/2015                                                                                                                                          # 
